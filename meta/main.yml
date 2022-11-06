@@ -1,7 +1,7 @@
 ---
 galaxy_info:
   author: Andrew Rothstein
-  role_name: etcd-cluster
+  role_name: etcd_cluster
   description: configures an etcd cluster (variable hacks by Zorlin)
   company: BlackRock
   license:
